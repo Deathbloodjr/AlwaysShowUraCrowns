@@ -1,2 +1,6 @@
 # AlwaysShowUraCrowns
- A mod for TDMX that will always show Ura crowns at the top left table of the song select menu, even if the selected song doesn't have an ura chart.
+ 
+This is a mod for Taiko no Tatsujin: The Drum Master!\
+It will always show Ura crowns at the top left table of the song select menu, even if the selected song doesn't have an ura chart.\
+It has support for Mono (1.2.2) and IL2CPP (1.3.0+) versions of the game.
+ 

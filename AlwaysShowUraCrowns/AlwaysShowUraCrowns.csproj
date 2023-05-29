@@ -31,7 +31,7 @@
     <TargetFramework Condition="$(DefineConstants.Contains('TAIKO_IL2CPP'))">net6.0</TargetFramework>
     <TargetFramework Condition="$(DefineConstants.Contains('TAIKO_MONO'))">net48</TargetFramework>
     <AssemblyName>com.db.alwaysshowuracrowns</AssemblyName>
-    <Description>A mod that will always show Ura crowns at the top left table of the song select menu, even if the selected song doesn't have an ura chart.</Description>
+    <Description>A mod for TDMX that will always show Ura crowns at the top left table of the song select menu, even if the selected song doesn't have an ura chart.</Description>
     <Version>1.0.0</Version>
     <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
     <LangVersion>latest</LangVersion>
